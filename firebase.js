@@ -1,7 +1,7 @@
 const firebaseConfig = {
   apiKey: "AIzaSyD4G5_HdB6iQabdm8alleE7xjcSlb-2zNA",
   authDomain: "jqueryds2.firebaseapp.com",
-  databaseURL: "https://jqueryds2-default-rtdb.firebaseio.com",
+  databaseURL: "hhttps://jqueryds2-default-rtdb.firebaseio.com/",
   projectId: "jqueryds2",
   storageBucket: "jqueryds2.firebasestorage.app",
   messagingSenderId: "148520189436",
